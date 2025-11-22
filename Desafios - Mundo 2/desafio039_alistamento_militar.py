@@ -9,8 +9,9 @@ e informe, de acordo com sua idade:
 Seu programa também deverá mostrar o tempo
 que falta ou que passou do prazo.
 """
+from datetime import date
 ano = int(input('Digite seu ano de nascimento: '))
-idade = 2025 - ano
+idade = date.today().year - ano
 if idade < 18:
     print('Você ainda não precisa de alistar.')
     print('Seu alistamento será daqui {} anos.'.format(18-idade))
