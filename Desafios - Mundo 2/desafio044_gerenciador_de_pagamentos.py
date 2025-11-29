@@ -44,6 +44,6 @@ elif opcao == 4:
     parcelas = int(input('Quantas parcelas? '))
     print('Em 3x ou mais será aplicado juros de 20% ao produto')
     print('Você ira pagar {} parcelas de R${:.2f}'.format(parcelas,(produto+juros)/parcelas))
-    print('Seu produto de {} ira custar R${:.2f} no final'.format(produto,produto+juros))
+    print('Seu produto de R${} ira custar R${:.2f} no final'.format(produto,produto+juros))
 else:
     print('Opção invalida, tente novamnete.')
