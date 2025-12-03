@@ -4,6 +4,6 @@ que mostre na tela uma contagem regressiva para o estouro de fogos de artifício
 """
 from time import sleep
 for c in range(10,0-1,-1):
-    print(c)
+    print('{}...'.format(c))
     sleep(1)
 print('BUUM! BUUM! POOW!')    
