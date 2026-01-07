@@ -28,7 +28,7 @@ Para rodar os códigos na sua máquina:
 git clone https://github.com/Iago-Lana/desafios-curso-python.git
 
 3. Entre na pasta e execute o arquivo desejado:
-python desafio001.py
+  desafio001_saudacao.py
 
 ## 👨‍💻 Autor
 
