@@ -17,7 +17,7 @@ Durante a resolução dos desafios, foram aplicados os seguintes conceitos:
 - [x] *Módulos e Bibliotecas* (math, random, datetime, etc.)
 - [x] *Manipulação de Strings*
 - [x] *Estruturas Condicionais* (if, elif, else)
-- [ ] *Estruturas de Repetição* (for, while)
+- [X] *Estruturas de Repetição* (for, while)
 - [ ] *Listas, Tuplas e Dicionários*
 
 ## 📂 Como executar
