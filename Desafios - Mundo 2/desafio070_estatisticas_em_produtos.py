@@ -1,5 +1,5 @@
 """
-Crie um programa
+Desafio 070: Crie um programa
 que leia o nome e o
 preço de vários
 produtos. O programa
