@@ -1,5 +1,5 @@
 """
-Desafio 07: Escreva um programa que leia um valor metros e o exiba convertido em centimetros e milímetros.
+Desafio 08: Escreva um programa que leia um valor metros e o exiba convertido em centimetros e milímetros.
 
 """
 m = float(input('Quantos metros? '))

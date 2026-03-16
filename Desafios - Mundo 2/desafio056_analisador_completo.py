@@ -1,5 +1,5 @@
 """
-DEsafio 056: Desenvolva um
+Desafio 056: Desenvolva um
 programa que leia o
 nome, idade e sexo de
 4 pessoas. No final do programa, mostre:
