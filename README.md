@@ -18,7 +18,9 @@ Durante a resolução dos desafios, foram aplicados os seguintes conceitos:
 - [x] *Manipulação de Strings*
 - [x] *Estruturas Condicionais* (if, elif, else)
 - [X] *Estruturas de Repetição* (for, while)
-- [ ] *Listas, Tuplas e Dicionários*
+- [X] *Listas, Tuplas e Dicionários*
+- [X] *Funções*
+- [X] *Tratamento de Erros e Excessões*
 
 ## 📂 Como executar
 Para rodar os códigos na sua máquina:
